@@ -707,6 +707,12 @@ section {
     bottom: 0;
 }
 
+@media (max-width: 768px) {
+    .portfolio .portfolio-wrap {
+        height: auto;
+    }
+}
+
 
 /*--------------------------------------------------------------
 # Portfolio Details
